@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sitesettings SYSTEM "sitesettings.dtd">
+<!--Adobe GoLive settings file-->
+<sitesettings section="collectiontab" version="1.0">
+	<attributes>
+		<attribute name="dataVersion" value="1"/>
+		<list name="entries">
+			<item>
+				<attribute name="collectionType" value="3"/>
+				<attribute name="collectionUrl" value="siteEntry://collections/Publizieren-Status%20%26quot;Immer%26quot;%20und%20%26quot;Wenn%20referenziert%26quot;/"/>
+				<attribute name="query" value=""/>
+				<attribute name="queryName" value=""/>
+				<attribute name="queryUrl" value="../web-data/Abfragen/Publizierte-Dateien.aglq"/>
+				<attribute name="timeRun" value="01.01.1601%2002:00"/>
+				<attribute name="unfolded" value="yes"/>
+			</item>
+			<item>
+				<attribute name="collectionType" value="0"/>
+				<attribute name="collectionUrl" value="siteEntry://collections/sammlung1/"/>
+				<attribute name="unfolded" value="no"/>
+			</item>
+			<item>
+				<attribute name="collectionUrl" value="siteEntry://collections/sammlung1/unbenannt.html"/>
+				<attribute name="isRelative" value="yes"/>
+				<attribute name="url" value="../web-data/Diagramme/versuch1/unbenannt.html"/>
+			</item>
+		</list>
+	</attributes>
+</sitesettings>
